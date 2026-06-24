@@ -1,5 +1,6 @@
 package BT;
 
+// BT hiển thị lời chào:
 import java.util.Scanner;
 
 public class ShowHello {
