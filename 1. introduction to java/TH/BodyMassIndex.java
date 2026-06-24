@@ -1,3 +1,4 @@
+package TH;
 
 //Tính chỉ số cân nặng của cơ thể
 import java.util.Scanner;

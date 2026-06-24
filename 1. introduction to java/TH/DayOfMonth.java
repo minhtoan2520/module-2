@@ -1,3 +1,4 @@
+package TH;
 
 //TÍNH SỐ NGÀY TRONG THÁNG
 import java.util.Scanner;

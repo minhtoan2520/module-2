@@ -1,3 +1,4 @@
+package TH;
 
 //TÍNH DIỆN TÍCH HÌNH CHỮ NHẬT
 import java.util.Scanner;

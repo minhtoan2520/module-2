@@ -1,3 +1,4 @@
+package TH;
 
 //GIẢI PHƯƠNG TRÌNH BẬC NHẤT
 import java.util.Scanner;

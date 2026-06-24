@@ -1,3 +1,4 @@
+package TH;
 
 //HIỂN THỊ THỜI GIAN HIỆN TẠI
 import java.util.Date;

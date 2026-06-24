@@ -1,3 +1,4 @@
+package TH;
 
 //khai báo và sử dụng các biến
 public class VariableDataType {

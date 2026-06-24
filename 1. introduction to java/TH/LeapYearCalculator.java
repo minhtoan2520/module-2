@@ -1,3 +1,4 @@
+package TH;
 
 //TÍNH NĂM NHUẬN
 import java.util.Scanner;
