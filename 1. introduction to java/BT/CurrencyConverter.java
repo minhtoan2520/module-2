@@ -19,6 +19,7 @@ public class CurrencyConverter {
             int vnd = usd * rate;
             System.out.println("Số tiền sau khi chuyển đổi là: " + vnd + " VNĐ");
         }
+        scanner.close();
     }
 
 }

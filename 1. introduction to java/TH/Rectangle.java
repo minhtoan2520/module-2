@@ -17,5 +17,7 @@ public class Rectangle {
 
         float area = width * height; // Tính diện tích
         System.out.println("Area is: " + area);
+
+        scanner.close();
     }
 }

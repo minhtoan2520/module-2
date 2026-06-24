@@ -10,5 +10,6 @@ public class ShowHello {
         String name = scanner.nextLine();
 
         System.out.println("Hello " + name);
+        scanner.close();
     }
 }

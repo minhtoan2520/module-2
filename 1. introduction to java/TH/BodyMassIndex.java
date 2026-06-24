@@ -25,6 +25,6 @@ public class BodyMassIndex {
         } else {
             System.out.printf("%-20s%s", bmi, "Obese");
         }
-
+        scanner.close();
     }
 }

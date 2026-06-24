@@ -1,4 +1,4 @@
-package WalletSystem;
+package TH_WalletSystem;
 
 /**
  * HỆ THỐNG VÍ ĐIỆN TỬ - PAYFAILS (LEGACY CODE)

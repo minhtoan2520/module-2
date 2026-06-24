@@ -39,5 +39,6 @@ public class DayOfMonth {
         } else {
             System.out.print("Invalid input!");
         }
+        scanner.close();
     }
 }
