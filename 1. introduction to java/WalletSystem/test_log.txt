@@ -1,0 +1,12 @@
+C:\HỌC\THUC-HANH>
+
+C:\HỌC\THUC-HANH>
+C:\HỌC\THUC-HANH> c: && cd c:\HỌC\THUC-HANH && cmd /C ""C:\Users\Admin\AppData\Roaming\Antigravity IDE\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\bin\java.exe" --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp "C:\Users\Admin\AppData\Roaming\Antigravity IDE\User\workspaceStorage\5c00c0caf227858b593f6d1737102b1b\redhat.java\jdt_ws\THUC-HANH_98e7b6d6\bin" WalletSystem.WalletSystem "
+--- GIAO D?CH N?P TI?N ---
+S? d? sau khi n?p: 2148000000 VN?
+
+--- TH?NG K? CHI TI?U ---
+Chi tiêu trung bình m?i giao d?ch: 0 VN?
+?o?n code này s? không bao gi? ???c in ra vì app ?? s?p!
+
+C:\HỌC\THUC-HANH>

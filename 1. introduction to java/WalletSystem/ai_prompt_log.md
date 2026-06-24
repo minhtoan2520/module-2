@@ -1,0 +1,2 @@
+trong file walletSystem.java Khi tôi khai báo long balance = 2148000000;, IDE báo lỗi 'Integer number too large'. Tôi cần thêm hậu tố gì phía sau con số trong Java để báo cho trình biên dịch biết đây là kiểu long?
+Đóng vai Tester phần mềm, hãy cung cấp cho tôi 3 giá trị biên cực đoan để tôi nhập vào biến depositAmount thử phá sập đoạn code mới sửa của tôi.
