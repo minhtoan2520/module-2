@@ -18,9 +18,10 @@ public class WalletSystem {
             // Toán tử + ở đây sẽ gây ra thảm họa
             // long newBalance = currentBalance + depositAmount;
 
-            // có thể thay dòng newBalance ở trên bằng dòng code sau, hàm này chủ động ném
-            // ra ngoại
-            // lệ:
+            /*
+             * có thể thay dòng newBalance ở trên bằng dòng code sau
+             * hàm này chủ động ném ra ngoại lệ
+             */
             long newBalance = Math.addExact(currentBalance, depositAmount);
 
             System.out.println("Số dư sau khi nạp: " + newBalance + " VNĐ");
