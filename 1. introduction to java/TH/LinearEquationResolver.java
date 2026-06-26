@@ -1,6 +1,6 @@
 package TH;
 
-//GIẢI PHƯƠNG TRÌNH BẬC NHẤT
+//GIẢI PHƯƠNG TRÌNH BẬC NHẤT ax + b = c
 import java.util.Scanner;
 
 public class LinearEquationResolver {
