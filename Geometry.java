@@ -52,5 +52,6 @@ public class Geometry {
                     System.out.println("No choice");
             }
         }
+        input.close();
     }
 }
