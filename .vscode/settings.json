@@ -1,5 +1,10 @@
 {
   "files.exclude": {
     "**/*.class": true
-  }
+  },
+  "java.project.sourcePaths": [
+    "2. vonglap Loop/TH_Loop",
+    "1. introduction to java",
+    ""
+  ]
 }
